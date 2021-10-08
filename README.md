@@ -1,1 +1,1 @@
-This is a cryptocurrency expense tracker that uses the data from an API.
+This is a cryptocurrency expense tracker that gets the data from an API using ReactJS.
